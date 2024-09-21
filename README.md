@@ -5,7 +5,7 @@
 <div>
         <a href="https://github.com/evandro-j-o-andrade">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evandro-J-O-Andrade&show_icons=true&theme=radical&include_all_comits=true&count_private=true"/>
-        <img height="180em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=Evandro-J-O-Andrade&layout=compact&langs_count=20&theme=radical"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandro-J-O-Andrade&layout=compact&langs_count=16&theme=radical"/>
 
  </div>
  
