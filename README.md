@@ -34,5 +34,5 @@
   
 </div>
 
-![Snake animation](https://github.com/evandro-j-o-andrade/evandro-j-o-andrade/blod/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/evandro-j-o-andrade/evandro-j-o-andrade/blod/output/github-contribution-grid-snake-dark.svg)
 
