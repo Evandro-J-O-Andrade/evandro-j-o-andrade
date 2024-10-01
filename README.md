@@ -22,6 +22,7 @@
   <img align="center" alt="Evandro-j-o-andrade-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Evandro-j-o-andrade-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Evandro-j-o-andrade-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-plain.svg">
+        
 </div>
   
   ##
@@ -38,9 +39,10 @@
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evandro-j-o-andrade/evandro-j-o-andrade/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evandro-j-o-andrade/evandro-j-o-andrade/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/evandro-j-o-andrade/evandro-j-o-andrade/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evandro-j-o-andrade/evandro-j-o-andrade/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/evandro-j-o-andrade/evandro-j-o-andrade/output/github-contribution-grid-snake.svg">   
   </picture>
+     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/evandro-j-o-andrade/evandro-j-o-andrade/output/github-contribution-grid-snake.svg">   
 </div>
 
 _generated with [Evandro Andrade](https://github.com/evandro-j-o-andrade)_
