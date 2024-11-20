@@ -2,7 +2,7 @@
 # Fique a vontade  para destrinchar os meus trabalhos, e ficarei muito grato de cada oreiantação sua para com esse mero mortal...
 # Desde ja agradeço por perde um minuto do seu tempo olhando os meus trabalhos.
 
-<h3>Sou apaixonado por tudo aquilo que eu faço, trabalho atualmente no Instituto Alpha para Medicina  e na INTS como T.i.
+<h3>Sou apaixonado por tudo aquilo que eu faço, trabalho atualmente no Instituto Alpha para Medicina  e na INTS como T.i. <br>
 Um pouco do trabalho realizado e o constante treinamento de funcionairos e terceiros para com o sistema de gestão hospitalar, onde
 e ministrado cursos dos mesmo, implementação de tecnologias a serem usadas no local, como GLPI e Active Directy, criando e gerenciando usuarios e politcas de grupos 
 tanto em pasta como em OUs com as GPOs</h3>
