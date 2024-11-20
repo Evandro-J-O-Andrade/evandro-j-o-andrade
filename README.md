@@ -1,7 +1,19 @@
 # Olá, Seja bem-vindo a minha pagina pessoal, gostaria de compartilhar um pouco do que eu aprendi e estou aprendendo no momento!
 # Fique a vontade  para destrinchar os meus trabalhos, e ficarei muito grato de cada oreiantação sua para com esse mero mortal...
 # Desde ja agradeço por perde um minuto do seu tempo olhando os meus trabalhos.
+
+<h3>Sou apaixonado por tudo aquilo que eu faço, trabalho atualmente no Instituto Alpha para Medicina  e na INTS como T.i.
+Um pouco do trabalho realizado e o constante treinamento de funcionairos e terceiros para com o sistema de gestão hospitalar, onde
+e ministrado cursos dos mesmo, implementação de tecnologias a serem usadas no local, como GLPI e Active Directy, criando e gerenciando usuarios e politcas de grupos 
+tanto em pasta como em OUs com as GPOs</h3>
+
+#      
+<h3>Visando em crescimento pessoal e profissional eu busco constantemente evoluir na área de tecnologia e  segurança da informação e eletronica,</h3>
+
 #
+
+<h3>Sou formado em Redes de Computador pela Universidade Paulista(Unip) e tenho Análise e Desenvolvimento (dois semestre, que agora esta trancada)  na mesma faculdade, gosto muito de back-end e eu estou focado em melhorar o meu front-end, possuo alguns certificados extras na DIO algumas por fora em outras plataformas , Minhas habilidades são em Linguagem Sql com MysqlServer, Java, Java Script, Html5 Css3, Visual Basic.</h3>
+
 <div> 
         <br>
         <a href="https://github.com/evandro-j-o-andrade">
