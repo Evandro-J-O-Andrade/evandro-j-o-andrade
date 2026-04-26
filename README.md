@@ -1,19 +1,59 @@
-# Olá, Seja bem-vindo a minha pagina pessoal, gostaria de compartilhar um pouco do que eu aprendi e estou aprendendo no momento!
-# Fique a vontade  para destrinchar os meus trabalhos, e ficarei muito grato de cada oreiantação sua para com esse mero mortal...
-# Desde ja agradeço por perde um minuto do seu tempo olhando os meus trabalhos.
+# 👨‍💻 Evandro Andrade
 
-<h3>Sou apaixonado por tudo aquilo que eu faço, trabalho atualmente no Instituto Alpha para Medicina  e na INTS como T.i. <br>
-Um pouco do trabalho realizado e o constante treinamento de funcionairos e terceiros para com o sistema de gestão hospitalar, onde
-e ministrado cursos dos mesmo, implementação de tecnologias a serem usadas no local, como GLPI e Active Directy, criando e gerenciando usuarios e politcas de grupos 
-tanto em pasta como em OUs com as GPOs</h3>
+Desenvolvedor Fullstack focado na construção de sistemas web robustos, escaláveis e aplicáveis a ambientes reais.
 
-#      
-<h3>Visando em crescimento pessoal e profissional eu busco constantemente evoluir na área de tecnologia e  segurança da informação e eletronica,</h3>
+---
 
-#
+## 🚀 Sobre mim
 
-<h3>Sou formado em Redes de Computador pela Universidade Paulista(Unip) e tenho Análise e Desenvolvimento (dois semestre, que agora esta trancada)  na mesma faculdade, gosto muito de back-end e eu estou focado em melhorar o meu front-end, possuo alguns certificados extras na DIO algumas por fora em outras plataformas , Minhas habilidades são em Linguagem Sql com MysqlServer, Java, Java Script, Html5 Css3, Visual Basic.</h3>
+Atuo com desenvolvimento de aplicações utilizando:
 
+- Node.js
+- React
+- MySQL
+- PHP
+- JavaScript
+
+Também possuo experiência com infraestrutura de TI:
+
+- Linux e Windows
+- Redes e firewall (OPNsense / pfSense)
+- Ambientes corporativos (área da saúde)
+
+---
+
+## 🧠 Diferencial
+
+Integro desenvolvimento e infraestrutura, criando soluções completas — do backend à aplicação final.
+
+---
+
+## 💻 Projeto em destaque
+
+### 🎂 Plataforma de E-commerce
+
+Sistema web para venda de produtos de festas com foco em experiência do usuário.
+
+🔗 https://pedacinhosdefelicidade.netlify.app/
+
+- Interface responsiva  
+- Carrinho de compras  
+- Integração com redes sociais  
+
+---
+
+## 📊 Tecnologias
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/evandrojoandrade/
 <div> 
         <br>
         <a href="https://github.com/evandro-j-o-andrade">
