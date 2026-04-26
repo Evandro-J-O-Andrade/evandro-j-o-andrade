@@ -52,6 +52,7 @@ Sistema web para venda de produtos de festas com foco em experiência do usuári
 ---
 
 ## 📫 Contato
+<img width="1983" height="793" alt="ChatGPT Image 26 de abr  de 2026, 03_07_54" src="https://github.com/user-attachments/assets/455bcf8f-a7f6-4d27-8010-8c3676d9aac6" />
 
 - LinkedIn: https://www.linkedin.com/in/evandrojoandrade/
 <div> 
