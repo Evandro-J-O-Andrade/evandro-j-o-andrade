@@ -1,8 +1,6 @@
 # 👨‍💻 Evandro Andrade
 
-Desenvolvedor Fullstack focado na construção de sistemas web robustos, escaláveis e aplicáveis a ambientes reais.
-
----
+Fullstack Developer | Node.js • React • MySQL
 
 ## 🚀 Sobre mim
 
